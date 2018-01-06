@@ -11,5 +11,6 @@ public class Java9 {
 
         StreamFeatures sf = new StreamFeatures();
         sf.betterIteration();
+        sf.optionalStreams();
     }
 }
